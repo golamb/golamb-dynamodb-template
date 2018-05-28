@@ -1,9 +1,9 @@
-# Go Lambda Simple Template for GoLambda
+# Go Lambda DynamoDB Template for GoLambda
 
 ## Init project
 
 ```sh
-golamb init simple my-project
+golamb init dynamodb my-project
 ```
 
 ## Require
