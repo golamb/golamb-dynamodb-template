@@ -1,0 +1,4 @@
+{
+  "BuildCmd": "./build.sh",
+  "RunCmd": "sam local invoke 'HelloWorld' -e event.json"
+}
